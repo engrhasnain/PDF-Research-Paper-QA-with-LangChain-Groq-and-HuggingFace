@@ -1,5 +1,10 @@
 # PDF Research Papers Q&A with LangChain Groq API and HuggingFace Embeddings
 
+[![Watch the demo video](https://img.youtube.com/vi/HMepYpR-NBA/0.jpg)](https://youtu.be/HMepYpR-NBA?si=iNzjHWdOrD7tUM18)
+
+> Click the image above to watch a short demo of the chatbot on YouTube.
+
+
 This project is a **Streamlit-based** application that enables users to query PDF research papers using **LangChain**, **Groq API** (with the `gemma2-9b-it` model), and **HuggingFace Embeddings**. It uses **FAISS** for vector search and a retrieval-based pipeline to provide accurate, context-driven answers.  
 
 ---
