@@ -1,1 +1,0 @@
-# PDF-Research-Paper-QA-with-LangChain-Groq-and-HuggingFace
